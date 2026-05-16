@@ -14,6 +14,7 @@ lista_numeros = [1,1,3,4,6,6,1,7] # Elimina elementos duplicados
 mi_set = set(lista_numeros)
 pertenece = 3 in lista_numeros
 print(pertenece)
+print(mi_set)
 
 # fozenset
 
